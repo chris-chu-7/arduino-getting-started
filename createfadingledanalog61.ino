@@ -28,3 +28,5 @@ void loop() {
 
    
 }
+
+//rgb led jhas 4 pins. 
